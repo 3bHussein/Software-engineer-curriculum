@@ -1,0 +1,7 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/elhussein/Documents/Development/Software-engineer-curriculum/1-data structures and algorithms/3. Arrays Basics'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F18, symSize: 0x68 }
+  - { offsetInCU: 0x2C8F, offset: 0x2C8F, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F18, symSize: 0x68 }
+...
