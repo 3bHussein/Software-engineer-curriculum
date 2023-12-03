@@ -32,10 +32,15 @@ int main()
    }
    for (int z :B)
    {
-    cout<<B[z]<<endl;
-
+   //  cout<<B[z]<<endl;
+   cout<<z<<endl;
+  
    }
 
+    int g;
+   cout<<"hello ,enter number"<<endl;
+   cin>>g;
+   cout<<g<<endl;
 
    return 0;
 }
