@@ -24,14 +24,18 @@ int main()
 
 
 // for loop 
-
-   
    for (size_t i = 0; i < 6; i++)
    {
     
-    cout<<B[i]<<endl;
+   //  cout<<B[i]<<endl;
    //  cout<<B[i]<<endl;
    }
-   
+   for (int z :B)
+   {
+    cout<<B[z]<<endl;
+
+   }
+
+
    return 0;
 }
