@@ -36,5 +36,11 @@ R.length=6;
 
 cout<<Total<<endl;
 
+
+// normal declare
+struct card c;
+//declare with initialize
+struct card ca={.color=1,.face=2,.shape=3};
+cout<<ca.color;
    return 0;
 }
