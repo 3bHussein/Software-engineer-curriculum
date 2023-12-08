@@ -14,6 +14,12 @@ struct Rectangle
     
 };
 
+struct card{
+ int face ;
+ int shape;
+ int color;
+};
+
 int main()
 {
 // to declare  Struct
