@@ -50,5 +50,5 @@ detect[0].face=5;
 detect[0].shape=6;
 
 cout<<detect[0].color;
-   return 0;
+   return 0; 
 }
