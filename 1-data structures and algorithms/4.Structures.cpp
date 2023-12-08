@@ -41,6 +41,14 @@ cout<<Total<<endl;
 struct card c;
 //declare with initialize
 struct card ca={.color=1,.face=2,.shape=3};
-cout<<ca.color;
+
+
+// declare with length
+struct card detect[52];
+detect[0].color=3;
+detect[0].face=5;
+detect[0].shape=6;
+
+cout<<detect[0].color;
    return 0;
 }
