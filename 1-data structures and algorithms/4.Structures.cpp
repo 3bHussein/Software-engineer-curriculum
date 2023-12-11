@@ -50,5 +50,24 @@ detect[0].face=5;
 detect[0].shape=6;
 
 cout<<detect[0].color;
+
+
+
+
+struct people
+{
+   int age;
+   int size;
+};
+
+struct people p;
+p.age=5;
+p.size=45;
+
+
+cout<<p.size;
    return 0;  
+
+
+
 }
