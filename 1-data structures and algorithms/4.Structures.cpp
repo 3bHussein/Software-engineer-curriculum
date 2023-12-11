@@ -73,6 +73,9 @@ cout<<p.size;
 
 
 int array_1[]={45,4,5};
+// cout<<array_1[1];
+cout<<sizeof(array_1)<<endl;
+
    return 0;  
 
 
