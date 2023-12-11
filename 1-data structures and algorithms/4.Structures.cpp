@@ -66,6 +66,13 @@ p.size=45;
 
 
 cout<<p.size;
+
+
+
+// array
+
+
+int array_1[]={45,4,5};
    return 0;  
 
 
