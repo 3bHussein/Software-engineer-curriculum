@@ -76,6 +76,10 @@ int array_1[]={45,4,5};
 // cout<<array_1[1];
 cout<<sizeof(array_1)<<endl;
 
+for(int a : array_1){
+   cout<<a<<endl;
+
+}
    return 0;  
 
 
