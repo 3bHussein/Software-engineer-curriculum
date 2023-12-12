@@ -78,7 +78,7 @@ cout<<sizeof(array_1)<<endl;
 
 for(int a : array_1){
    cout<<a<<endl;
-
+   
 }
    return 0;  
 
