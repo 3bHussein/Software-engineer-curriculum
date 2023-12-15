@@ -1,9 +1,13 @@
 public static void Main(string[] args)
 {
-    int x =5;
-    int y =6;
-    int z =x+y;
 
-    Console.WriteLine($"the sum of x and y ={z},");
+    int [][] jagged =new int [3][];
+    //  set row 0
+    jagged[0]=new int[2];
+    jagged[0][0]=8;
+    jagged[0][1]=6;
+
+
+
 }
 
